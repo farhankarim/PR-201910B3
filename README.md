@@ -31,4 +31,4 @@ This *code* is only for **practice** purpose.
   
 - [X] index.html
 - [ ] contact.html
-- [ ] about.html
+- [X] about.html
