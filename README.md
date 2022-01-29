@@ -1,5 +1,4 @@
 # Sample Project for PR-201910B3 :pakistan: 😄
-
 This *code* is only for **practice** purpose.
 
 
