@@ -1,2 +1,1 @@
-# PR-201910B3
- 
+# Sample Project for PR-201910B3
